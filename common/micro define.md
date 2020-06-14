@@ -1,4 +1,4 @@
-# micro defeine
+# micro define
 autosar中定义了一些特殊的宏，用于指明函数，变量的类型。
 文档[^1]对编译相关的特殊关键字进行了说明。
 
