@@ -2,7 +2,7 @@
 ## swc框图
 
 iohwab swc定义了读取前门状态的两个S接口和一个写灯状态S接口，SWC框图如下图所示：
-![](https://raw.githubusercontent.com/hanojiang/picgo_pic_bed/master/pic/iohwab_swc.PNG)
+![](https://gitee.com/hzfy_haojiangwang/myPicBed/raw/master/iohwab_swc.PNG)
 
 ## 生成代码分析
 生成的代码涉及到一下几个文件：
@@ -13,7 +13,7 @@ iohwab swc定义了读取前门状态的两个S接口和一个写灯状态S接�
 
 调用关系如下图所示：
 
-![](https://raw.githubusercontent.com/hanojiang/picgo_pic_bed/master/pic/iohwab_trace.PNG)
+![](https://gitee.com/hzfy_haojiangwang/myPicBed/raw/master/iohwab_trace.PNG)
 
 调用步骤如下：
 
